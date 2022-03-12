@@ -1,0 +1,2 @@
+# smartcase
+Created with CodeSandbox
